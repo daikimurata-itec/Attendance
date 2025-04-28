@@ -1,6 +1,6 @@
-package test;
+package servlet;
 
-public class TestJava {
+public class Login {
 
 	public static void main(String[] args) {
 		// TODO 自動生成されたメソッド・スタブ
